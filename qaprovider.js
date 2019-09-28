@@ -2,6 +2,9 @@ const puppeteer = require('puppeteer');
 const fs = require('fs'); // module to work with file system
 const { imgDiff } = require('img-diff-js'); // module to compare images
 let errors = 0;
+if (!fs.existsSync('screenshots/')) {
+    fs.mkdirSync('screenshots/');
+}
 
 (async () => {
     let urls = JSON.parse(fs.readFileSync('config.json')); // Read config file
