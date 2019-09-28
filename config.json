@@ -1,0 +1,17 @@
+[
+    {
+        "url" : "https://qaprovider.com",
+        "name" : "Main page",
+        "screen_name": "mainpage"
+    },
+    {
+      "url" : "https://qaprovider.com/testers",
+      "name" : "All testers",
+      "screen_name": "all_testers"
+    },
+    {
+      "url" : "https://qaprovider.com/profile/1",
+      "name" : "QAProvider profile page",
+      "screen_name": "qaprovider_profile"
+    }
+]
