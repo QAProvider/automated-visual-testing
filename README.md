@@ -17,3 +17,4 @@ node qaprovider.js
 
 https://qaprovider.com/discussion/show/puppeteer-quick-start/38 (Puppeteer quick tutorial)
 https://qaprovider.com/discussion/show/automated-visual-testing-easy-snapshot-testing-with-puppeteer/44 (Automated visual testing - Easy snapshot testing with Puppeteer)
+https://eye.qaprovider.com - complete solution using this approach for visual regression testing
